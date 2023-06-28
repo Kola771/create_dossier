@@ -41,6 +41,26 @@ if(file_exists($file)){
     echo "ERREUR : Le fichier n'existe pas.";
 }
 ?>
+
+<?php
+ 
+// $file='achive.zip';
+// $path='.';
+ 
+// $zip=new ZipArchive;
+ 
+// $res=$zip->open($file);
+ 
+// if ($res === TRUE)
+// {
+//     $zip->extractTo($path);
+//     $zip->close();
+//     echo "Fichier $file extrait avec succès dans $path";
+// } else {
+//     echo "Echec de l'extraction du fichier $file";
+// }
+ 
+?>
 </p>
 </body>
 </html>
