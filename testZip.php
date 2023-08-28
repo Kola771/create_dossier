@@ -1,6 +1,7 @@
 <?php
 // infos du fichier 
 $fichier = "masterCode.zip";
+// $fichier = "import.csv";
      
 // téléchargement du fichier 
 header('Content-disposition: attachment; filename='.$fichier); 

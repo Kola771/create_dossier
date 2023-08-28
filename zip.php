@@ -27,8 +27,8 @@ if ($zip->open($zipName, ZipArchive::CREATE | ZipArchive::OVERWRITE) === true) {
 }
 $file = "essai.html";
 $op = fopen($file, 'w');
-fwrite($op, "<p>Hola</p>");
-fwrite($op, "\n<p>Hola</p>");
+fwrite($op, "<p>Kola</p>");
+fwrite($op, "\n<p>Carlton</p>");
 $t = file($file);
 var_dump($t);
 foreach($t as $key => $val)

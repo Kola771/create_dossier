@@ -1,0 +1,11 @@
+CIVILITE,NOM,PRENOM,TELEPHONE,CODE_POSTAL,VILLE,NUMERO_DE_RUE,ADRESSE_1,ADRESSE_2,ADRESSE_MAIL,NOM_FICHIER,TAG_FICHIER,INFO_INJECTION,ACTIVITE,ZONE,DATE_INJECTION,TELEPHONE_SECONDAIRE,COMMENTAIRE,AGENT_INDEXE
+M,Martin,Robert,+0612345678,12345,Paris,10,123 Avenue de la République,,robert.martin@example.com,file1,tag1,info1,Consultant,Zone 1,2023-06-01,+1549876322,Commentaire 1,Agent1
+M,Leroy,Marc,+0723456789,23456,Marseille,5,456 Rue du Commerce,,marc.leroy@example.com,file2,tag2,info2,Ingénieur,Zone 2,2023-06-02,+1634567891,Commentaire 2,Agent2
+F,Dubois,Sophie,+0134567890,34567,Lyon,8,789 Boulevard des Fleurs,,sophie.dubois@example.com,file3,tag3,info3,Avocat,Zone 3,2023-06-03,+1723456790,Commentaire 3,Agent3
+F,Moreau,Isabelle,+0456789012,45678,Toulouse,12,987 Avenue des Étoiles,,isabelle.moreau@example.com,file4,tag4,info4,Enseignant,Zone 4,2023-06-04,+1812345679,Commentaire 4,Agent4
+M,Roux,David,+0245678901,56789,Nice,3,654 Rue du Soleil,,david.roux@example.com,file5,tag5,info5,Artiste,Zone 5,2023-06-05,+1901234568,Commentaire 5,Agent5
+F,Garcia,Sophia,+0987654321,67890,Strasbourg,15,321 Boulevard des Arts,,sophia.garcia@example.com,file6,tag6,info6,Médecin,Zone 6,2023-06-06,+1990123457,Commentaire 6,Agent6
+M,Laurent,Thomas,+0398765432,78901,Bordeaux,9,123 Rue de la Liberté,,thomas.laurent@example.com,file7,tag7,info7,Architecte,Zone 7,2023-06-07,+2089012346,Commentaire 7,Agent7
+F,Lefevre,Charlotte,+0876543210,89012,Lille,6,456 Avenue du Nord,,charlotte.lefevre@example.com,file8,tag8,info8,Étudiant,Zone 8,2023-06-08,+2178901235,Commentaire 8,Agent8
+M,Michel,Julien,+0543210987,90123,Rennes,11,789 Rue de l'Ouest,,julien.michel@example.com,file9,tag9,info9,Journaliste,Zone 9,2023-06-09,+2267890124,Commentaire 9,Agent9
+F,Petit,Emma,+0123456789,01234,Nantes,4,987 Boulevard de l'Est,,emma.petit@example.com,file10,tag10,info10,Designer,Zone 10,2023-06-10,+2356789013,Commentaire 10,Agent10
